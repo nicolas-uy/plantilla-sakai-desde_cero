@@ -1,0 +1,48 @@
+# Compiled output
+dist/
+tmp/
+out-tsc/
+bazel-out/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Angular cache
+.angular/cache/
+.angular/local/
+
+# Logs
+*.log
+
+# Testing
+coverage/
+testem.log
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Misc
+connect.lock
+libpeerconnection.log
+typings/
+.sass-cache/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+
+# Env files
+.env
+.env.local
